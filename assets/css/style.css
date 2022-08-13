@@ -204,4 +204,13 @@ label{
 
 }
 
-
+.link{
+    background-color: #dcdcdc;
+    font-family: arial;
+    font-size: 1.7rem;
+    margin-left: 3%;
+    color: #000;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
